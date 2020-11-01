@@ -1,0 +1,28 @@
+{
+  "name": "shamebot",
+  "version": "1.0.0",
+  "description": "Shame... *Ding Ding* Shame... *Ding Ding*",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snipercool/shameBot.git"
+  },
+  "author": "Nicolas Vanhuynegem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snipercool/shameBot/issues"
+  },
+  "homepage": "https://github.com/snipercool/shameBot#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "discord.js-commando": "git+https://github.com/discordjs/commando.git",
+    "erela.js": "^2.0.1",
+    "ffmpeg-static": "^4.2.7"
+  },
+  "devDependencies": {
+    "webpack": "^5.3.2"
+  }
+}
